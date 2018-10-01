@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The hardest Section so far for me"
-date:       2018-10-01 14:49:06 +0000
+date:       2018-10-01 10:49:08 -0400
 permalink:  the_hardest_section_so_far_for_me
 ---
 
