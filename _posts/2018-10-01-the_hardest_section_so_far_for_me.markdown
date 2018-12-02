@@ -95,7 +95,7 @@ attr_accessor :name, :url, :degree_type, :contact, :division, :department, :desc
 end
 ```
 
-I'm really happy with this project. It gave me hope that with curiosity, tenacity and persistence to decode others' codes and to fix my own's codes, I will get better at Object-oriented Ruby programming one day at a time.
+I'm really happy with [this project](https://github.com/taisaoko/Program_Scraper). It gave me hope that with curiosity, tenacity and persistence to decode others' codes and to fix my own's codes, I will get better at Object-oriented Ruby programming one day at a time.
 
 
 
